@@ -1,0 +1,44 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    
+}
+h2 span{
+    color: orangered;
+}
+.flex-Container{
+
+    display: flex;
+    width: 100%;
+}
+.half-width{
+    width: 30%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+#half-width{
+    
+    padding-top: 8%;
+    padding-right: 25%%;
+    
+}
+img{
+    height: 250px;
+    background-image: url(Images/Group\ 8449.png);
+    
+}
+.button{
+    background-image: linear-gradient( blue,#8A2BE2);
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    
+}
+
